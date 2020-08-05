@@ -1,5 +1,5 @@
 # private-id-dist
-WebAssembly with JavaScript bindings for the Private-ID protocol
+WebAssembly + JavaScript bindings for the Private-ID protocol
 
 # Usage
 ```JavaScript
